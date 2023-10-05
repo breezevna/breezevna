@@ -34,7 +34,6 @@
  # About me
  
 <p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
 
  📚 &emsp; I'm a cadet at <a href = "https://www.42prague.com/"> 42 Prague </a> and student at the Czech University of Life Sciences                 <br/><br/>
  👀 &emsp; I’m interested in the dynamic world of technology and software development, with a passion for coding and problem-solving<br/><br/>
