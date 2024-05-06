@@ -37,7 +37,7 @@
 
  📚 &emsp; I'm a cadet at <a href = "https://www.42prague.com/"> 42 Prague </a> and student at the Czech University of Life Sciences                 <br/><br/>
  👀 &emsp; I’m interested in the dynamic world of technology and software development, with a passion for coding and problem-solving<br/><br/>
- 🌱 &emsp; I’m currently learning and expanding my skills in C and C# programming, database management, and web technologies like HTML and CSS. I'm always excited to take on new challenges and stay updated with the latest industry trends.<br/><br/>
+ 🌱 &emsp; I’m currently learning and expanding my skills in C, C# and Python programming, database management, and web technologies like HTML and CSS. I'm always excited to take on new challenges and stay updated with the latest industry trends.<br/><br/>
  💞️ &emsp; I'm actively seeking opportunities for collaboration on exciting software projects. Whether it's coding, designing, or contributing to a creative endeavor, I'm ready to work with like-minded individuals who share my enthusiasm.
 </p>
 
