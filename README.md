@@ -44,6 +44,6 @@
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=py,cs,c,cpp,html,css,ps,ae,vscode,github,dotnet)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,cs,c,cpp,go,html,css,aws,jenkins,kubernetes,docker,ansible,postman,github,dotnet)](https://skillicons.dev)
 
 
